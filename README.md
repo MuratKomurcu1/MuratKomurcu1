@@ -30,10 +30,7 @@ Let's connect and shape the future with AI!
   <img src="https://github-profile-trophy.vercel.app/?username=MuratKomurcu1&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
-📊 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuratKomurcu1&theme=react-dark" alt="GitHub Activity Graph"/>
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+Engineer;NLP+Specialist;LLM+Developer;Python+%26+TypeScript)
 
 📫 My Contacts
 
