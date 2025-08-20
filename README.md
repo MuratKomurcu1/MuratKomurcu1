@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Murat!
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+Engineer;NLP+Specialist;LLM+Developer;Python+%26+TypeScript)
 AI Engineer specializing in Natural Language Processing & Large Language Models. Building intelligent systems that understand and generate human language.
 
 🧠 About Me
@@ -25,15 +25,8 @@ Let's connect and shape the future with AI!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuratKomurcu1&theme=dark" alt="GitHub Streak"/>
 </div>
 
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuratKomurcu1&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+Engineer;NLP+Specialist;LLM+Developer;Python+%26+TypeScript)
 
 📫 My Contacts
-
 📧 muratkomurrcu@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/murat-komurcu-0b3b54173/
 📍 İstanbul, Turkey
