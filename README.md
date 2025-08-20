@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Murat!
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=AI+Engineer;NLP+Specialist;LLM+Developer;Python+%26+TypeScript)
+
+
 AI Engineer specializing in Natural Language Processing & Large Language Models. Building intelligent systems that understand and generate human language.
 
 🧠 About Me
