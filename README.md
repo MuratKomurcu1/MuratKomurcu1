@@ -1,99 +1,99 @@
-# Hi, I'm Murat 👋
-
-### AI Systems Engineer | Agentic AI • LLMOps • Data Engineering • Backend Systems
-
-I build production-grade AI systems from model development to deployment.
-
-My work focuses on designing scalable AI platforms, fine-tuning open-source language models, building multi-agent systems, and developing data-driven backend architectures for real-world applications.
-
----
-
-## 🚀 What I Build
-
-- 🤖 Multi-Agent AI Systems
-- 🧠 LLM Fine-tuning (LoRA / QLoRA)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- ⚙️ Model Context Protocol (MCP)
-- 📊 AI Data Pipelines
-- 🌐 FastAPI & Backend Systems
-- 🐳 Docker & Production Deployments
-- 🗄 PostgreSQL & Vector Databases
-
----
-
-## ⭐ Featured Projects
-
-### 🧠 StarCoder2 STM32 Fine-Tuning
-
-Fine-tuned StarCoder2-3B for STM32 HAL firmware generation using LoRA.
-
-- Domain-specific code generation
-- Custom dataset engineering
-- Hardware validation
-- Hugging Face model & dataset
-
----
-
-### 🤖 AI Foundry
-
-Open-source collection of production-oriented AI projects including
-
-- Multi-Agent Systems
-- LLM Applications
-- MCP Servers
-- Computer Vision
-- NLP
-- MLOps
-- RAG
-
----
-
-### 🚀 TÜBİTAK & EPDK AI Grant Assistant
-
-An AI platform helping researchers and startups discover and evaluate Turkish R&D grants using LLMs, semantic search and intelligent matching.
-
----
-
-## 🛠 Tech Stack
-
-### AI
-
-Python • PyTorch • Transformers • Hugging Face • LangChain • OpenAI • Ollama • MLflow
-
-### LLM
-
-LLMOps • LoRA • QLoRA • RAG • MCP • Prompt Engineering • Agentic AI
-
-### Backend
-
-FastAPI • Flask • Node.js • Express • PostgreSQL • REST API
-
-### Infrastructure
-
-Docker • Docker Compose • Linux • Git • CUDA
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuratKomurcu1&show_icons=true&theme=github_dark&hide_border=true"/>
+# Murat Komurcu
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratKomurcu1&layout=compact&theme=github_dark&hide_border=true"/>
+### AI Systems Engineer
+
+Building production-grade AI products,
+agentic systems and intelligent infrastructure.
+
+<br>
+
+<a href="https://muratkomurrcu.com">Portfolio</a> •
+<a href="https://linkedin.com/in/murat-komurcu-0b3b54173">LinkedIn</a> •
+<a href="mailto:muratkomurrcu@gmail.com">Email</a>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Currently Building
 
-📧 muratkomurrcu@gmail.com
+→ Agentic AI Systems
 
-🌐 https://www.muratkomurrcu.com
+→ LLM Infrastructure
 
-💼 https://www.linkedin.com/in/murat-komurcu-0b3b54173/
+→ Production AI Pipelines
 
-🐙 https://github.com/MuratKomurcu1
+→ Multi-Agent Workflows
 
-📍 Istanbul, Türkiye
+→ AI Developer Tools
+
+---
+
+## Featured Work
+
+### StarCoder2 for STM32
+
+Domain-specific LLM fine-tuning for embedded firmware generation.
+
+> LoRA • Transformers • Hardware Validation
+
+---
+
+### AI Foundry
+
+Open-source AI engineering toolkit.
+
+LLMs
+
+RAG
+
+Computer Vision
+
+MCP
+
+MLOps
+
+---
+
+### AI Grant Assistant
+
+LLM platform for discovering and evaluating
+Turkish R&D funding opportunities.
+
+---
+
+## Stack
+
+Python
+
+PyTorch
+
+FastAPI
+
+Docker
+
+PostgreSQL
+
+Transformers
+
+LangChain
+
+CUDA
+
+---
+
+## Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuratKomurcu1&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratKomurcu1&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+---
+
+> Building software that turns AI research into production systems.
